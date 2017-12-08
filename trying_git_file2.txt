@@ -1,1 +1,2 @@
 This is the second file that i am adding to my git repo
+i am changing it for time pass and this is a rediclous thing that i am doing
